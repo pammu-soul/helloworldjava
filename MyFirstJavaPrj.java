@@ -4,7 +4,7 @@ public class MyFirstJavaPrj {
 		tempMethod();
 	}
 	public String tempMethod(){
-		System.out.println(" Hip Hip Hurray! I am being invoked by mainMethod() ")
+		System.out.println(" Hip Hip Hurray! I am being invoked by mainMethod() ");
 	}
 	
 }
