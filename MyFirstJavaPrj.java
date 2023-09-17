@@ -3,7 +3,7 @@ public class MyFirstJavaPrj {
 		System.out.println("Wowwww........... This is my MyFirstJavaProject");
 		tempMethod();
 
-		MyFirstJavaPrj ob1 = new MyFirstJavaPrj();
+		MyFirstJavaPrj obj1 = new MyFirstJavaPrj();
 		obj1.singSong();
 	}
 	public static void tempMethod(){
