@@ -11,6 +11,6 @@ public class MyFirstJavaPrj {
 	}
 
 	public static void singSong(){
-		System.out.println(" \n\n Sing a Song! O Baby Sing a Song!!! ");
+		System.out.println(" \n\n Sing a Song! Polling is Expensive Method!! ");
 	}	
 } 
